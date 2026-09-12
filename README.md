@@ -1,4 +1,4 @@
-# FRIDAY — Hackathon Ready Offline Voice Assistant
+# FRIDAY — Offline Voice Assistant
 
 FRIDAY is a Python-only desktop voice assistant designed for a 24-hour hackathon demo.
 

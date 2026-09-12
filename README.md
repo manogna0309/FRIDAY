@@ -87,6 +87,6 @@ Tkinter UI + pyttsx3
 
 ## Deployment
 
-For a simple hackathon deployment, run it locally on a Windows laptop. For a standalone executable, package the project with PyInstaller after confirming the Vosk model is included.
+ For a standalone executable, package the project with PyInstaller after confirming the Vosk model is included.
 
 Important: this project is intentionally offline-first. Internet search is not part of the core design.
